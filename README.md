@@ -23,7 +23,7 @@ Geliştirme süreçlerinde AI ajanlarına görevleri kapsamlı biçimde tanıml�
 
 Ürün kapsamını, kullanıcı rollerini, temel iş akışlarını ve arayüz davranışlarını belirledim. Geliştirme görevlerini ajanlara tanımlayarak çıktıları gereksinimlere göre değerlendirdim ve PR tabanlı iyileştirme sürecini yönlendirdim.
 
-[Depoyu incele](https://github.com/BorBozka/Staj_Projesi2) · [Canlı uygulamayı görüntüle](https://staj-projesi2.vercel.app)
+[Depoyu incele](https://github.com/BorBozka/visitor-operations-platform) · [Canlı uygulamayı görüntüle](https://visitor-operations-platform.vercel.app)
 
 ### GençKal
 
