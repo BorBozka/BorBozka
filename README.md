@@ -1,6 +1,6 @@
 # Merhaba, ben Atahan Bora Bozkurt
 
-**Yazılım Mühendisliği Öğrencisi | Ürün ve Proje Yönetimi**
+**Yazılım Mühendisliği Öğrencisi**
 
 İhtiyaçları analiz ederek ürün kapsamına dönüştürmeye, kullanıcı akışlarını ve arayüz davranışlarını netleştirmeye; işleri planlayarak süreç ve teslimatları takip etmeye odaklanıyorum.
 
